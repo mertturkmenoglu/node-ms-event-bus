@@ -1,0 +1,7 @@
+const USER_CREATED = 'USER_CREATED';
+const POST_CREATED = 'POST_CREATED';
+
+module.exports = {
+  USER_CREATED,
+  POST_CREATED,
+};
